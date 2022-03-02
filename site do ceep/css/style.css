@@ -1,0 +1,32 @@
+@font-face {
+    font-family: [Serpentine];
+    src: url(../font/serpentine-bold.ttf);
+}
+
+/* Geral */
+body{
+    background-color: rgb(0, 0, 0, 0.1);
+}
+
+/* Cabeçalho */
+.navbar{
+    box-shadow: 0 0 3vh black;
+    border-radius: 0 0 3vh 3vh;
+}
+
+.navbar-brand{
+    font-family: Serpentine;
+    font-weight: bold;
+    font-size: xx-large;
+    padding: 0;
+}
+
+/* Rodapé */
+footer{
+    text-align: justify;
+}
+
+/* Outros */
+.borda-redonda{
+    border-radius: 3vh;
+}
