@@ -21,12 +21,13 @@ body{
     padding: 0;
 }
 
+/* Mapa */
+.mapa{
+    border-radius: 3vh;
+    box-shadow: 0 0 1vh black;
+}
+
 /* Rodapé */
 footer{
     text-align: justify;
-}
-
-/* Outros */
-.borda-redonda{
-    border-radius: 3vh;
 }
