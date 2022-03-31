@@ -10,7 +10,7 @@ body{
 
 /* Cabeçalho */
 .navbar{
-    box-shadow: 0 0 3vh black;
+    box-shadow: 0 0 2vh black;
     border-radius: 0 0 3vh 3vh;
 }
 
